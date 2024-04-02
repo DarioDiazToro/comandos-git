@@ -26,6 +26,9 @@ git push
  2) subimos el cambio a la rama con el siguiente comando:
     git push -u origin nombreDeLaRama
 
+VER LA RAMA EN LA QUE ESTOY ACTUALMENTE:
+git branch    
+
 PARA CREAR UNA NUEVA RAMA:
  git branch nombreNuevaRama
 
