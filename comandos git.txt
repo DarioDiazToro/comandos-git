@@ -19,7 +19,7 @@ git add .
 PARA CREAR COMMIT:
 git commit -m "mensaje que quieras escribir sobre el commit"
 
-PARA SUBIR CAMBIOS A UNA RAMA:
+PARA SUBIR CAMBIOS AL SERVIDOR DE UNA RAMA:
 git push 
  # si el anterior camando no sube el cambio ejecutar lo siguiente:
  1) tenemos que saber en que rama estamos posicionados, para esto ejecutamos:
