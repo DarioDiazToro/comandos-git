@@ -1,0 +1,2 @@
+agregar proyecto a git hub
+git remote add origin urlRepositorioGit
