@@ -44,3 +44,9 @@ SI NO SE TRAE LOS CAMBIOS EJECUTAR EL SIGUIENTE COMANDO:
 git pull origin nombreRamaAtraerseLosCambios
 
 
+
+PARA FUSIONAR RAMAS:
+1) se debe pocisionar en la rama en donde queremos que se fusione los CAMBIOS
+2) ejecutar el siguiente comando
+  git merge nombreDeLaRamaAtraerseLosCambios
+
