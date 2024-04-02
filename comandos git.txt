@@ -3,6 +3,9 @@ desde rama saludo2
 EXTENSION PARA VISUAL STUDIO CODE RECOMENADA PARA GIT:
 Git Graph
 
+CLONAR REPOSITORIO:
+git clone urlRepositorio
+
 Inicializar proyecto con git:
 git init
 
