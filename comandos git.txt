@@ -53,3 +53,5 @@ PARA FUSIONAR RAMAS:
 2) ejecutar el siguiente comando
   git merge nombreDeLaRamaAtraerseLosCambios
 
+FUSIONAR COMMITS:
+git rebase --interactive ${id-del-commit}
