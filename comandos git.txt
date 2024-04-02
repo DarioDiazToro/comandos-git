@@ -6,6 +6,7 @@ git status
 
 VER COMMITS HECHOS DEL PROYECTO:
 git log
+ NOTA: j para bajar y u para subir y para salir q
 
 AGREGAR ARCHIVOS PARA SEGUIMIENTO GIT (EL PUNTO SIGNIFICA QUE VA A INCLUIR TODOS LOS ARCHIVOS):
 git add .
