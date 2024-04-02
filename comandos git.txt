@@ -1,0 +1,36 @@
+Inicializar proyecto con git:
+git init
+
+VER ESTADO DEL PROYECTO:
+git status
+
+AGREGAR ARCHIVOS PARA SEGUIMIENTO GIT (EL PUNTO SIGNIFICA QUE VA A INCLUIR TODOS LOS ARCHIVOS):
+git add .
+
+PARA CREAR COMMIT:
+git commit -m "mensaje que quieras escribir sobre el commit"
+
+PARA SUBIR CAMBIOS A UNA RAMA:
+git push 
+ # si el anterior camando no sube el cambio ejecutar lo siguiente:
+ 1) tenemos que saber en que rama estamos posicionados, para esto ejecutamos:
+    git branch
+ 2) subimos el cambio a la rama con el siguiente comando:
+    git push -u origin nombreDeLaRama
+
+PARA CREAR UNA NUEVA RAMA:
+ git branch nombreNuevaRama
+
+CREAR UNA RAMA Y MOVERSE A LA NUEVA RAMA:
+
+ git checkout -b nombreNuevaRama
+
+MOVERSE A UNA RAMA YA EXISTENTE:
+git checkout nombreRamaAmoverse
+
+TRAERSE LOS CAMBIOS DE UNA RAMA DEL SERVIDOR:
+
+git pull 
+
+SI NO SE TRAE LOS CAMBIOS EJECUTAR EL SIGUIENTE COMANDO:
+git pull origin nombreRamaAtraerseLosCambios
